@@ -1,0 +1,20 @@
+{
+    "Author": "michaelwasham",
+    "ContentSize": 2235,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/domain-joining-windows-azure-virtual-machines-on-provision/master/deploy-vm-joined.ps1",
+    "DownloadCount": 3041,
+    "Id": "Domain-Joining-Windows-fefe7039",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 266,
+    "RaterCount": 3,
+    "Rating": 5.0,
+    "ReleaseDate": "2012-12-6T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This example shows how to configure domain join when provisioning virtual machines using the Windows Azure PowerShell cmdlets. It is a requirement to have Active Directory connectivity already in place for this sample to work.",
+    "Title": "Domain Joining Windows Azure Virtual Machines on Provision",
+    "UpdatedDate": "2013-1-4T00:00:00",
+    "Url": "https://github.com/azureautomation/domain-joining-windows-azure-virtual-machines-on-provision",
+    "UserTags": "Active Directory, Windows Azure Virtual Machines"
+}
